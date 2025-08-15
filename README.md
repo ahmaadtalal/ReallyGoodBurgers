@@ -18,7 +18,7 @@ A responsive, full-stack restaurant web application built with React, Node.js, a
 ---
 
 ## Overview  
-Really Good Burgers is a modern web application simulating a restaurant ordering experience. Visitors can browse the menu, place orders (simulated), and enjoy a smooth, responsive UI across all devices.
+Really Good Burgers is a modern web application simulating a restaurant ordering experience. Visitors can browse the menu, place orders, and enjoy a smooth, responsive UI across all devices.
 
 ---
 
